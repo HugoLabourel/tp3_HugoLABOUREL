@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PizzaTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-26T19:25:06" hostname="LAPTOP-BSCOH0UE" time="0.014">
+  <properties/>
+  <testcase name="testCreationPizzeria" classname="PizzaTest" time="0.005"/>
+  <testcase name="testPizzasBrestEtStras" classname="PizzaTest" time="0.005"/>
+  <testcase name="testCommandePizzaBrest" classname="PizzaTest" time="0.002"/>
+  <testcase name="testCommandePizzaStras" classname="PizzaTest" time="0.002"/>
+  <system-out><![CDATA[Pre?paration de Pizza sauce style brest et fromage
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Parmigiano reggiano rapé
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts triangulaires
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style brest et poivrons
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Parmigiano reggiano rapé
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts triangulaires
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style brest et grecque
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Parmigiano reggiano rapé
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts triangulaires
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style Strasbourg et fromage
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Mozzarella en lamelles
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts carrees
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style Strasbourg et poivrons
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Mozzarella en lamelles
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts carrees
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style Strasbourg et grecque
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Mozzarella en lamelles
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts carrees
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style brest et fromage
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Parmigiano reggiano rapé
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts triangulaires
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style brest et poivrons
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Parmigiano reggiano rapé
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts triangulaires
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style brest et grecque
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Parmigiano reggiano rapé
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts triangulaires
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style Strasbourg et fromage
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Mozzarella en lamelles
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts carrees
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style Strasbourg et poivrons
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Mozzarella en lamelles
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts carrees
+Emballage dans une boi?te officielle
+Pre?paration de Pizza sauce style Strasbourg et grecque
+E?talage de la pa?te...
+Ajout de la sauce... 
+Ajout des garnitures:
+ Mozzarella en lamelles
+Cuisson 25 minutes a? 180°
+De?coupage en parts
+Decoupage en parts carrees
+Emballage dans une boi?te officielle
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
