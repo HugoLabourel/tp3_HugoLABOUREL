@@ -91,7 +91,7 @@ endif::[]
 
 {firstName}:: Hugo
 
-{group} #::
+{group} #:: 1B
 
 [%interactive]
 - [x] {Enseignants}
