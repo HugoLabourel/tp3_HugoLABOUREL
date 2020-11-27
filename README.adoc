@@ -1,5 +1,5 @@
 = Design Patterns - TP3
-J.-M. Bruel <jbruel@gmail.com>
+J.-M. Labourel <jbruel@gmail.com>
 v20.1 {localdate}
 :tdnum: TP3
 :uk!:
