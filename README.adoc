@@ -1,5 +1,5 @@
 = Design Patterns - TP3
-J.-M. Labourel <jbruel@gmail.com>
+J.-M. Breul <jbruel@gmail.com>
 v20.1 {localdate}
 :tdnum: TP3
 :uk!:
@@ -87,9 +87,9 @@ endif::[]
 //------------------------------------ 
 == {assignment}
 
-{lastName}:: BRUEL
+{lastName}:: LABOUREL
 
-{firstName}:: Jean-Michel
+{firstName}:: Hugo
 
 {group} #::
 
